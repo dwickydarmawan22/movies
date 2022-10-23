@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "listMovie" = [
+  "listMovie": [
     {
       "id": 1,
       "poster": "https://source.unsplash.com/random/100×100/?marvel-movie",
