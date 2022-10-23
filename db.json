@@ -10,5 +10,52 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "listMovie" = [
+    {
+      "id": 1,
+      "poster": "https://source.unsplash.com/random/100×100/?marvel-movie",
+      "name": "Marvel",
+      "releaseDate": "20 Oktober 2022",
+      "genre": "Fantasy",
+      "rating": "10",
+      "duration": "2 hours",
+    },
+    {
+      "id": 2,
+      "poster": "https://source.unsplash.com/random/100×100/?orphan-movie",
+      "name": "orphan",
+      "releaseDate": "2 September 2022",
+      "genre": "Horror",
+      "rating": "8",
+      "duration": "1 hours 37 minutes",
+    },
+    {
+      "id": 3,
+      "poster": "https://source.unsplash.com/random/100×100/?batman-movie",
+      "name": "Batman",
+      "releaseDate": "13 February 2022",
+      "genre": "Fantasy",
+      "rating": "6",
+      "duration": "1 hours 48 minutes",
+    },
+    {
+      "id": 4,
+      "poster": "https://source.unsplash.com/random/100×100/?turning-red-movie",
+      "name": "Turning Red",
+      "releaseDate": "5 July 2022",
+      "genre": "Cartoon",
+      "rating": "10",
+      "duration": "1 hours 51 minutes",
+    },
+    {
+      "id": 5,
+      "poster": "https://source.unsplash.com/random/100×100/?Pinocchio-movie",
+      "name": "Pinocchio",
+      "releaseDate": "10 August 2022",
+      "genre": "Cartoon",
+      "rating": "8",
+      "duration": "2 hours",
+    },
+  ];
 }
